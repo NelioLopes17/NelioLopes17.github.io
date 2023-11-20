@@ -961,12 +961,12 @@ margin-left: 13vh;
         display:grid;
         justify-content: space-between;
         margin-top: -50px; /* Adjust margin as needed */
-       margin-left: -5vh;
+       margin-left: -3vh;
     }
     .categorys .box-container .box {
         height:60%;
        width: 40%; 
- 
+  background-color: #b82323;
          
         margin-left: -5vh;
      }
