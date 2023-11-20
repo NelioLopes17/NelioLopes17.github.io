@@ -957,14 +957,20 @@ margin-left: 13vh;
     .category .box-container .box img{
         width: 100%;
     }
-       .categorys .box-container {
+   .categorys .box-container {
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
+        padding: 2rem 0; /* Adjust padding as needed */
+        margin-top: -50px; /* Adjust margin as needed */
     }
 
     .categorys .box {
-        width: 15%; /* Adjust the width to your preference */
+        width: 48%; /* Adjust the width to your preference */
         margin-bottom: 15px; /* Adjust the margin as needed */
+        margin-left: 0; /* Reset margin for smaller screens */
     }
+.categorys .box-container .box {
+    background-color: #000;
+}
 }
