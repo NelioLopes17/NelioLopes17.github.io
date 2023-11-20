@@ -961,7 +961,7 @@ margin-left: 13vh;
         display:grid;
         justify-content: space-between;
         margin-top: -50px; /* Adjust margin as needed */
-       margin-left: 2vh;
+       margin-left: 4vh;
     }
     .categorys .box-container .box {
         height:60%;
