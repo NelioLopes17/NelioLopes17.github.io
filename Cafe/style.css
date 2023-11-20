@@ -983,5 +983,9 @@ margin-left: 13vh;
         justify-content: space-between;
         padding: 2rem 0; 
 
-    }
+    }   
+    .products .box-container .box {
+        
+        margin-left: 10vh;
+      }
 }
