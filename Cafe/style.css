@@ -965,16 +965,16 @@ margin-left: 13vh;
 
 
 .categorys .box-container .box {
-   height:80%;
-  width: 60%; /* Adjust the width to your preference */
+   height:40%;
+  width: 30%; /* Adjust the width to your preference */
         margin-bottom: -10%; /* Adjust the margin as needed */
         margin-left: 0; /
  background-color: #E8DCCC;
 }
 .categorys .box-container .box img{
     margin-top: 2vh;
-    width:40%;
- height:50%;
+    width:20%;
+ height:35%;
     border-radius: 30px;
 }
 }
