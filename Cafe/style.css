@@ -963,16 +963,13 @@ margin-left: 13vh;
         margin-top: -50px; /* Adjust margin as needed */
     }
 
-    .categorys .box {
-        width: 18%; /* Adjust the width to your preference */
-        margin-bottom: 15px; /* Adjust the margin as needed */
-        margin-left: 0; /* Reset margin for smaller screens */
-    }
+
 .categorys .box-container .box {
    height:80%;
   width: 60%; /* Adjust the width to your preference */
         margin-bottom: -10%; /* Adjust the margin as needed */
         margin-left: 0; /
+ background-color: #E8DCCC;
 }
 .categorys .box-container .box img{
     margin-top: 2vh;
