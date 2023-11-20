@@ -957,24 +957,17 @@ margin-left: 13vh;
     .category .box-container .box img{
         width: 100%;
     }
-   .categorys .box-container {
-       display: grid;
-        padding: 2rem 0; /* Adjust padding as needed */
-        margin-top: -50px; /* Adjust margin as needed */
-    }
+    .categorys .box-container .box {
+        height:70%;
+       width: 100%; /* Adjust the width to your preference */
+/* Adjust the margin as needed */
+             margin-left: 0; /
 
-
-.categorys .box-container .box {
-   height:40%;
-  width: 30%; /* Adjust the width to your preference */
-        margin-bottom: -10%; /* Adjust the margin as needed */
-        margin-left: 0; /
- background-color: #E8DCCC;
-}
-.categorys .box-container .box img{
-    margin-top: 2vh;
-    width:20%;
- height:35%;
-    border-radius: 30px;
-}
+     }
+     .categorys .box-container .box img{
+         margin-top: 2vh;
+         width:90%;
+      height:90%;
+         border-radius: 30px;
+     }
 }
