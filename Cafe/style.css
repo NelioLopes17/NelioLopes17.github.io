@@ -359,7 +359,7 @@ margin-left: 13vh;
     text-align:center;
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.7);
     border:0.1rem solid rgba(0,0,0,0.7);
-     background-color: #000;
+     background-color: #E8DCCC;
     border-radius: 35px;
     margin-top: 50px;
     width: 38vh;
@@ -379,11 +379,11 @@ margin-left: 13vh;
 .categorys .box-container .box h3{
     font-size: 3vh;
     margin: 1vh 0;
-    color: #222;
+    color: #833517;
 }
 
 .categorys .box-container .box:hover h3{
-    color: #fff;
+    color: #B43F11;
 }
 
 
@@ -1011,7 +1011,7 @@ margin-left: 13vh;
   
   /* Styles for the loading circle */
   .circle {
-    border: 8px solid #3498db; /* Adjust the border size and color */
+    border: 8px solid #E8DCCC; /* Adjust the border size and color */
     border-top: 8px solid transparent; /* Hide the top border to create a circle */
     border-radius: 50%;
     width: 50px;
