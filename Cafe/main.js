@@ -30,3 +30,9 @@ function mostrarCategorias() {
 function esconderCategorias() {
     document.getElementById("categorias").style.display = "none";
 }
+const preloader = document.querySelector("[data-preaload]");
+
+window.addEventListener("load", function () {
+  preloader.classList.add("loaded");
+  document.body.classList.add("loaded");
+});
