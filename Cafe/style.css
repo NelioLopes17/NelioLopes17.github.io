@@ -194,7 +194,7 @@ span{
 
 .home{
     padding-top: 14rem;
-    background: url(img/home-bg1.jpg) no-repeat;
+    background: url(./img/bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
