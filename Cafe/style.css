@@ -198,6 +198,7 @@ span{
     background-size: cover;
     background-position: center;
     position: relative;
+     border-radius: 20px;
 }
  .home .slides-container .slide{
     display:flex;
